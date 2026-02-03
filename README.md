@@ -14,7 +14,7 @@ The dataset contains customer-level information such as:
 - Customer ID
 - Gender
 - Age
-- Annual Income (k$)
+- Annual Income
 - Spending Score (1–100)
 
 Only the features relevant for clustering are used in the model.
